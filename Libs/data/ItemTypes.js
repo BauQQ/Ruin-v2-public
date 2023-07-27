@@ -1,0 +1,23 @@
+ItemTypes = {
+    amulet : {searchable:true},
+    armlet : {searchable:true},
+    armor : {searchable:true},
+    bag : {searchable:true},
+    book : {searchable:false},
+    boot : {searchable:true},
+    bow : {searchable:true},
+    box : {searchable:false},
+    charm : {searchable:false},
+    glove : {searchable:true},
+    hammer : {searchable:true},
+    misc : {searchable:false},
+    mount : {searchable:false},
+    orb : {searchable:true},
+    quiver : {searchable:true},
+    ring : {searchable:true},
+    rune : {searchable:false},
+    shield : {searchable:true},
+    staff : {searchable:true},
+    sword : {searchable:true},
+    totem : {searchable:true}
+};

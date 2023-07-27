@@ -1,0 +1,1 @@
+const Hooks = [UI, Bartender, Chat];

@@ -1,0 +1,1 @@
+const Extension = [UI, Settings, CustomCss, CustomJs, Input, Modal, Customizer, Inventory, Minimap, Bartender, Party, Stash, Skills, Itemization, Interaction, Trader, Pvp, ElixirStore, Request, Charactersheet, Guild, Details, Auctionhouse, Emotes, Chat, Templates, Social, Boss, Photomode];
